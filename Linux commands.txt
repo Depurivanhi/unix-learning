@@ -1,0 +1,32 @@
+linux commands
+
+clear-to clear screen
+cd- to change directory
+su - -to switch user
+passwd- to change password
+pwd-to know in which directory you are
+cd /-to go back to the parent directory
+ls-listing all the contents in directory
+ls -l-to list everything in columns
+touch -to create files in directories
+ls -a- display all the files icluding hidden files
+ls * -lists all the sub files/folders also
+ls -R-lists all the sub folders recursively
+ls -ls -lists all the folders with size
+ls -s -soft link
+ls -lh - list in human readable format
+ls -lhr -to reverse the order of list
+ls -lt -to run files according to time we modified
+ls -ltr -to run files according to time we modified are displayed in reverse format
+grep - to search any folder
+| - used to connect to connect two commands
+cat - used to read the contents only in files not directories and it prints them
+echo - store the text in some file and similar to print statement
+chmod - modify the permissions
+ls -li-list the file with index
+ln - to link files
+chgrp -change group 
+mkdir -create directory
+rmdir -remove directory
+whoami - displays user name
+/ -root
